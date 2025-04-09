@@ -1,6 +1,6 @@
 import React from "react";
 import { FaPlus } from "react-icons/fa6";
-import LoginForm from "../auth/LoginForm";
+import LoginForm from "./LoginForm";
 
 const Login = () => {
   return (
