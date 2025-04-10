@@ -67,7 +67,7 @@ export const Sidebar_data = [
   {
     id: 14,
     title: "Messenger",
-    icon: "/menu/messenger.png",
+    icon: "/menu/massanger.png",
   },
   {
     id: 15,
@@ -97,6 +97,6 @@ export const Sidebar_data = [
   {
     id: 20,
     title: "Reels",
-    icon: "/menu/reels.png",
+    icon: "/menu/reel.png",
   },
 ];

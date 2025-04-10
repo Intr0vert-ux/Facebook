@@ -9,7 +9,7 @@ const Home = () => {
     <>
       <Navbar />
       {/* Main content page */}
-      <div className="grid grid-cols-1 md:grid-cols-12 min-h-[86vh] bg-[#F2F4F7]">
+      <div className="grid grid-cols-1 md:grid-cols-12 min-h-[86vh] hide-scrollbar bg-[#F2F4F7]">
         {/* Sidebar */}
         <div className="xl:col-span-3 xl:block hidden">
           <Sidebar />
