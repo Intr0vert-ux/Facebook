@@ -4,3 +4,11 @@
   width: 0 !important;
   height: 0 !important;
 }
+.post_caption::placeholder {
+  font-size: 1.2rem;
+}
+.post_caption {
+  font-size: 1.2rem;
+  color: #a1a1aa;
+  margin-top: 0.5rem;
+}
